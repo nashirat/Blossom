@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/nashirat/Blossom">
-    <img src="assets/images/fronticon.png" width="70" height="70"alt="Logo">
+    <img src="assets/images/fronticon.png" width="70" alt="Logo">
   </a>
 
   <h3 align="center">Blossom</h3>
