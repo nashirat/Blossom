@@ -1,16 +1,42 @@
-# blossom
+<br />
+<p align="center">
+  <a href="https://github.com/nashirat/Blossom">
+    <img src="assets/images/newlogo.png" width="70" height="70"alt="Logo">
+  </a>
 
-A new Flutter project.
+  <h3 align="center">Blossom</h3>
+  <p align="center">
+    Plant Gift App
+    <br>
+    <br>
+  </p>
+</p>
 
-## Getting Started
+<p align="center">
+  <img src="assets/images/deco.gif" alt="animated" />
+</p>
 
-This project is a starting point for a Flutter application.
+[![OS](https://img.shields.io/badge/OS-Android-0E84E5)](#)
+[![OS](https://img.shields.io/badge/-Flutter-41D0FD)](#)
+## About the App
 
-A few resources to get you started if this is your first Flutter project:
+<p align="justify">Online gift app with augmented reality technology. We are pleased to realize this brilliant idea into a design and development. 3rd at national business idea competition 2021.
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Made With
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Firebase 
+
+## Requirements
+
+- Android 7.0+
+
+## Installation
+
+Download: https://drive.google.com/file/d/1bAlyq5w7GZXGZX0fM1GNEGVO-0c7s8cn/view?usp=sharing
+
+Simply run and install this app just like any other app
+
+Note: This app is still in development, if you maange to get this app from this link than you're one of the choosen one to try it.
+
