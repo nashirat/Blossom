@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/nashirat/Blossom">
-    <img src="assets/images/newlogo.png" width="70" height="70"alt="Logo">
+    <img src="assets/images/fronticon.png" width="70" height="70"alt="Logo">
   </a>
 
   <h3 align="center">Blossom</h3>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/images/deco.gif" alt="animated" />
+  <img src="assets/images/blossomgif.gif" alt="animated" />
 </p>
 
 [![OS](https://img.shields.io/badge/OS-Android-0E84E5)](#)
@@ -34,7 +34,7 @@
 
 ## Installation
 
-Download: https://drive.google.com/file/d/1bAlyq5w7GZXGZX0fM1GNEGVO-0c7s8cn/view?usp=sharing
+Download: [REDACTED AS IN CLIENTS NDA]
 
 Simply run and install this app just like any other app
 
